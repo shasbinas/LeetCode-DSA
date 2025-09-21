@@ -9,7 +9,5 @@ function canConstruct(ransomNote, magazine) {
     }
     count[ch]--;  
   }
-
   return true;
-    
 };

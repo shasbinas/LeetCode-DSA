@@ -3,7 +3,6 @@ var countRangeSum = function(nums, lower, upper) {
     for (let num of nums) {
         prefix.push(prefix[prefix.length - 1] + num);
     }
-
     function mergeSort(start, end) {
         if (end - start <= 1) return 0;
         let mid = Math.floor((start + end) / 2);

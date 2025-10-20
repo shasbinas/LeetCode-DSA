@@ -1,7 +1,5 @@
 function firstMissingPositive(nums) {
     const n = nums.length;
-
-    // Place each number in its "correct" position if possible
     for (let i = 0; i < n; i++) {
         while (
             nums[i] > 0 &&

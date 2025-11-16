@@ -1,4 +1,4 @@
-var combine=function(n,k){
+let combine=function(n,k){
   let res=[],path=[];
   function backtrack(start){
     if(path.length===k){res.push([...path]);return;}

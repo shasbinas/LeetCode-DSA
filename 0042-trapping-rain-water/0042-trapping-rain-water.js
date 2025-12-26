@@ -1,0 +1,8 @@
+var trap=function(h){let l=0,r=h.length-1,lm=0,rm=0,w=0;
+while(l<r){
+    if(h[l]<h[r]){lm=Math.max(lm,h[l]);
+w+=lm-h[l];l++;
+}
+else{rm=Math.max(rm,h[r]);w+=rm-h[r];r--;}
+}
+return w;}

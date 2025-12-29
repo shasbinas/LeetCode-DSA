@@ -1,8 +1,13 @@
-/**
- * @param {number[]} flowerbed
- * @param {number} n
- * @return {boolean}
- */
-var canPlaceFlowers = function(flowerbed, n) {
-    
-};
+canPlaceFlowers = (f, n) => {
+  for (let i = 0; i < f.length && n > 0; i++) {
+    if (
+      f[i] === 0 &&
+      (i === 0 || f[i - 1] === 0) &&
+      (i === f.length - 1 || f[i + 1] === 0)
+    ) {
+      f[i] = 1
+      n--
+    }
+  }
+  return n === 0
+}

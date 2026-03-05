@@ -65,4 +65,20 @@ const twoSum = (nums, target) => {
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/shasbinas/LeetCode-DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/shasbinas/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/shasbinas/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/shasbinas/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/shasbinas/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->

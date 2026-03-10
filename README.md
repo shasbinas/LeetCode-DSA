@@ -68,10 +68,12 @@ const twoSum = (nums, target) => {
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shasbinas/LeetCode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/shasbinas/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shasbinas/LeetCode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/shasbinas/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -80,5 +82,10 @@ const twoSum = (nums, target) => {
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shasbinas/LeetCode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/shasbinas/LeetCode-DSA/tree/main/0100-same-tree/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shasbinas/LeetCode-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
